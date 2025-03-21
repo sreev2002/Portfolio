@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    SRM,
+    tworks
+    
   } from "../assets";
   
   export const navLinks = [
@@ -46,15 +49,15 @@ import {
       icon: web,
     },
     {
-      title: "Database Architect",
+      title: "Animator",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "AI Enthusiast",
       icon: backend,
     },
     {
-      title: "Animator",
+      title: "3D Experience Designer",
       icon: creator,
     },
   ];
@@ -122,50 +125,49 @@ import {
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Created dynamic and vibrant trailers that significantly increased audience engagement and video interactions.",
+        "Developed virtual sets for live streams using Unreal Engine, enhancing production quality and visual appeal.",
+        "Produced theatrical videos using Blender, delivering captivating and immersive content.",
+        "Utilized advanced 3D modeling, texturing, and animation techniques to elevate visual storytelling.",
       ],
     },
     {
       title: "Research Intern",
       company_name: "SRM Insititute of Science and Technology",
-      icon: tesla,
+      icon: SRM,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Oct 2023 - Dec 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Contributed to the design and development of a user-adaptive sensory integration room for children with Autism Spectrum Disorder.",
+        "Applied IoT and machine learning techniques to create an intelligent, responsive environment.",
+        "Developed interactive dashboards using React to monitor and visualize sensory data in real time.",
+        "Played a pivotal role in integrating adaptive features to enhance user experience and therapeutic outcomes.",
       ],
     },
     {
       title: "Intern",
       company_name: "T-Works",
-      icon: shopify,
+      icon: tworks,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "April 2024 - Sept 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Programmed interactive 3D models using React Three Fiber to enhance user engagement and provide dynamic visual experiences.",
+        "Developed a custom AI-powered chatbot to streamline client interactions, resulting in a 25% reduction in turnover time",
+        "Collaborated with cross-functional teams to contribute to the development of 15+ features and services in a user-friendly client portal, enhancing functionality and improving the overall user experience. ",
+        
       ],
     },
     {
       title: "Assosiate Software Developer",
       company_name: "T-Works",
-      icon: meta,
+      icon: tworks,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Oct 2024 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
+        "Initiated and led the development of a custom ERP solution tailored to specific business case scenarios, enhancing operational efficiency.",
+        "Designed and implemented the solution using the T3 stack, integrating it seamlessly with the existing SaaS platforms.",
+        "Oversaw the customization and scaling of the ERP system, ensuring it was adaptable to various business requirements and streamlining overall operations",
+              ],
     },
   ];
   
@@ -200,28 +202,28 @@ import {
     {
       name: "Eco Fertilization",
       description:
-        "Lorem Ipsum",
+        "Engineered a CNN-based model for potato leaf disease classification, preprocessing a labeled dataset to address imbalance and enhance performance. ",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Python",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Supabase",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "",
     },
     {
-      name: "Project 2",
+      name: "AI Driven Tool For Meeting Management  For  Productivity And Engagement  Using LLM   2",
       description:
-        "Lorem Ipsum",
+        "Designed and deployed a smart assistant capable of providing real-time insights and data retrieval during meetings. Received an Accuracy of over 98% in Information Retrieval and query resolving capabilities.  ",
       tags: [
         {
           name: "react",

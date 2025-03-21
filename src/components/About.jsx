@@ -40,8 +40,7 @@ const About = () => {
         variants={fadeIn("","",0.1,1)}
         className='m-10 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I’m a Computer Science Engineer with a specialization in Artificial Intelligence and Machine Learning from SRM. I’m passionate about AI and love exploring everything it has to offer. I’m also interested in JavaScript and enjoy learning and building with it. I adapt quickly to new challenges and thrive in collaborative environments where I can contribute and grow alongside others.
-
+        I am a Computer Science Engineer with a specialization in Artificial Intelligence and Machine Learning from SRM. I am passionate about creating dynamic and interactive 3D web experiences using Three.js, as well as leveraging AI to build innovative solutions. I have a strong foundation in JavaScript and am always eager to take on new challenges. I thrive in collaborative environments where I can learn and grow alongside others.
 
       </motion.p>
       <div className="m-auto flex sm:flex-wrap gap-10">
