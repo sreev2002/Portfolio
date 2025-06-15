@@ -242,16 +242,16 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Project 3",
+      name: "3D Portfolio",
       description:
-        "Lorem Ipsum",
+        "A 3D Portfolio made in Three.js",
       tags: [
         {
-          name: "nextjs",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Three.js",
           color: "green-text-gradient",
         },
         {
