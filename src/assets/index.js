@@ -31,7 +31,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import SRM from "./company/SRM.png";
 import PORTIMG from  './PORT IMG.png';
-import AIASS from './AIASS'
+import AIASS from './AIASS.png'
 
 export {
   logo,
