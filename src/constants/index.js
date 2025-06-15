@@ -241,7 +241,7 @@ import {
         },
       ],
       image: AIASS,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/sreev2002/AI-Assistant",
     },
     {
       name: "3D Portfolio",
@@ -262,7 +262,7 @@ import {
         },
       ],
       image: PORTIMG,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/sreev2002/Portfolio",
     },
   ];
   
