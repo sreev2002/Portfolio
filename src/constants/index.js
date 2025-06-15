@@ -24,7 +24,9 @@ import {
     tripguide,
     threejs,
     SRM,
-    tworks
+    tworks,
+    AIASS,
+    PORTIMG
     
   } from "../assets";
   
@@ -238,7 +240,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: AIASS,
       source_code_link: "https://github.com/",
     },
     {
@@ -259,7 +261,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: PORTIMG,
       source_code_link: "https://github.com/",
     },
   ];

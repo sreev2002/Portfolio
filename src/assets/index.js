@@ -30,6 +30,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import SRM from "./company/SRM.png";
+import PORTIMG from  './PORT IMG.png';
+import AIASS from './AIASS'
 
 export {
   logo,
@@ -61,5 +63,7 @@ export {
   jobit,
   tripguide,
   SRM,
-  tworks
+  tworks,
+  PORTIMG,
+  AIASS
 };
